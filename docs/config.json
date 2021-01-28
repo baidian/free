@@ -1,0 +1,33 @@
+{
+    "title": "Coin",
+    "description": "Coin Free",
+    "logo": "/upload/logo.svg",
+    "footer": "Ⓒ Coin",
+    "favicon": "favicon-32x32.png",
+    "navigation": [
+      {
+        "text": "Works",
+        "link": "/",
+        "position": "left",
+        "external": false
+      },
+      {
+        "text": "Baidu",
+        "link": "https://www.baidu.com",
+        "position": "left",
+        "external": true
+      },
+      {
+        "text": "Hi Vue!",
+        "link": "https://v3.vuejs.org/guide/component-slots.html#slot-content",
+        "position": "right",
+        "external": true
+      },
+      {
+        "text": "Journal",
+        "link": "/journal/",
+        "position": "right",
+        "external": false
+      }
+    ]
+  }
