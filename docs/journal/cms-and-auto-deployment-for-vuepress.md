@@ -4,6 +4,14 @@ date: 2018-08-09 17:49:28 +0000
 excerpt: This works like expected, this text is only visible on the front page where all the journal posts are listed
 
 ---
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+:tada: :100:
 # Content management and auto deployment for VuePress
 
 Let's check out how we can automatically deploy our VuePress sites and manage the content from within Forestry.
