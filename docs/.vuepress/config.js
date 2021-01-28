@@ -1,5 +1,5 @@
 module.exports = {
   title: "My Free",
-  description: "This is a free.",
+  description: "This is my free.",
   base: '/free/' 
 }
